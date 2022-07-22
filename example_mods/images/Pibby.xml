@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pibby.png"><SubTexture name="Pibby Idle0000" x="0" y="0" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0001" x="1131" y="0" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0002" x="2262" y="0" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0003" x="0" y="511" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0004" x="1131" y="511" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0005" x="2262" y="511" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0006" x="0" y="1022" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0007" x="1131" y="1022" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+<SubTexture name="Pibby Idle0008" x="2262" y="1022" width="1131" height="511" frameX="0" frameY="0" frameWidth="1131" frameHeight="511" />
+</TextureAtlas>
